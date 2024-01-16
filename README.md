@@ -4,6 +4,21 @@
 If you find anything in the paper or repository useful, please consider citing:
 
 ```
+@article{RamrezMoreno2021,
+  title = {Evaluation of a Fast Test Based on Biometric Signals to Assess Mental Fatigue at the Workplace—A Pilot Study},
+  volume = {18},
+  ISSN = {1660-4601},
+  url = {http://dx.doi.org/10.3390/ijerph182211891},
+  DOI = {10.3390/ijerph182211891},
+  number = {22},
+  journal = {International Journal of Environmental Research and Public Health},
+  publisher = {MDPI AG},
+  author = {Ramírez-Moreno,  Mauricio A. and Carrillo-Tijerina,  Patricio and Candela-Leal,  Milton Osiel and Alanis-Espinosa,  Myriam and Tudón-Martínez,  Juan Carlos and Roman-Flores,  Armando and Ramírez-Mendoza,  Ricardo A. and Lozoya-Santos,  Jorge de J.},
+  year = {2021},
+  month = nov,
+  pages = {11891}
+}
+
 @inproceedings{AguilarHerrera2021,
   doi = {10.1109/ieeeconf53024.2021.9733770},
   url = {https://doi.org/10.1109/ieeeconf53024.2021.9733770},
@@ -15,7 +30,17 @@ If you find anything in the paper or repository useful, please consider citing:
   booktitle = {2021 Machine Learning-Driven Digital Technologies for Educational Innovation Workshop}
 }
 
-@article{Candela-Leal2023,
+@inproceedings{CandelaLeal2021,
+  url = {http://ieomsociety.org/proceedings/2021monterrey/487.pdf},
+  year = {2021},
+  month = nov,
+  publisher = {{IEOM}},
+  author = {Ricardo A Morales-Menendez and Mauricio A Ramírez-Moreno and Jorge de J Lozoya-Santos},
+  title = {Real-time Biofeedback System for Interactive Learning using Wearables and IoT},
+  booktitle = {2021 International Conference on Industrial Engineering and Operations Management ({IEOM})}
+}
+
+@article{CandelaLeal2023,
   doi = {10.13140/RG.2.2.30051.12329},
   url = {https://rgdoi.net/10.13140/RG.2.2.30051.12329},
   author = {Candela-Leal,  Milton Osiel and Moreno,  Mauricio Adolfo Ramírez and Lozoya-Santos,  Jorge},
