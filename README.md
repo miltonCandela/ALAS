@@ -30,16 +30,6 @@ If you find anything in the paper or repository useful, please consider citing:
   booktitle = {2021 Machine Learning-Driven Digital Technologies for Educational Innovation Workshop}
 }
 
-@inproceedings{CandelaLeal2021,
-  url = {http://ieomsociety.org/proceedings/2021monterrey/487.pdf},
-  year = {2021},
-  month = nov,
-  publisher = {{IEOM}},
-  author = {Ricardo A Morales-Menendez and Mauricio A Ramírez-Moreno and Jorge de J Lozoya-Santos},
-  title = {Real-time Biofeedback System for Interactive Learning using Wearables and IoT},
-  booktitle = {2021 International Conference on Industrial Engineering and Operations Management ({IEOM})}
-}
-
 @article{CandelaLeal2023,
   doi = {10.13140/RG.2.2.30051.12329},
   url = {https://rgdoi.net/10.13140/RG.2.2.30051.12329},
