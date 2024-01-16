@@ -33,10 +33,12 @@ If you find anything in the paper or repository useful, please consider citing:
 @article{CandelaLeal2023,
   doi = {10.13140/RG.2.2.30051.12329},
   url = {https://rgdoi.net/10.13140/RG.2.2.30051.12329},
+  year = {2023},
+  month = oct,
+  publisher = {{IEEE}}},
   author = {Candela-Leal,  Milton Osiel and Moreno,  Mauricio Adolfo Ramírez and Lozoya-Santos,  Jorge},
   language = {en},
   title = {Real-time Dual-feature Mental Fatigue State SVM Classification using EEG Delta Bandpower},
-  publisher = {Unpublished},
-  year = {2023}
+  booktitle = {2023 IEEE 19th International Conference on Body Sensor Networks (BSN)}
 }
 ```
